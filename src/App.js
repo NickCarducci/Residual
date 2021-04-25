@@ -60,13 +60,17 @@ export default function App() {
           </a>
         </div>
         <div style={{ width: "100%", maxWidth: "600px" }}>
-          <img
-            style={{ width: "100%", height: "auto" }}
-            alt="https://fred.stlouisfed.org/graph/?g=D2jW"
-            src="https://www.dl.dropboxusercontent.com/s/r500t29a6058oll/Screen%20Shot%202021-04-11%20at%206.53.30%20AM.png?dl=0"
-          />
+          <a href="ttps://fred.stlouisfed.org/graph/?g=D2jW">
+            <img
+              style={{ width: "100%", height: "auto" }}
+              alt="$300k per person a year promised out of no-where, $70k per person a year given to gov monopsony contractors for free-rider-mutables beyond free-rider-immutables"
+              src="https://www.dl.dropboxusercontent.com/s/r500t29a6058oll/Screen%20Shot%202021-04-11%20at%206.53.30%20AM.png?dl=0"
+            />
+          </a>
         </div>
-        This is M2
+        This is M2; $300k per person a year promised out of no-where, $70k per
+        person a year given to gov monopsony contractors for free-rider-mutables
+        beyond free-rider-immutables
       </div>
     </div>
   );
