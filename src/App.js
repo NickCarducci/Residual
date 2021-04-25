@@ -9,6 +9,14 @@ export default function App() {
           width: "100%"
         }}
       >
+        Deterministic-calculus = notation of units by causal effect & if partial
+        derivatives are greater than one it is two-full-derivatives (or to boot,
+        doubly)
+        <br />
+        <br />
+        GDP= C + P is laughable in this regard
+        <br />
+        <br />
         Mind your business, Joe Manchin
         <br />
         <br />
