@@ -14,7 +14,14 @@ export default function App() {
         doubly)
         <br />
         <br />
-        GDP= C + P is laughable in this regard
+        GDP= C + P is laughable in this regard. As well as significance not
+        being elastic or exponentially-correlated (positively or negatively) to
+        shuffling or non-derivative sample-population. Or pooling/
+        free-rider-mutable-tax/<b style={{ color: "blue" }}>usury</b>&nbsp;saves
+        money from price-elasticity not being a fact. Or condensation not being
+        a fact and spit-derived-humidity locked in mask doesn't elongate
+        virus-half-life instead of condensate without even a test on countertop
+        after speaking
         <br />
         <br />
         Mind your business, Joe Manchin
@@ -31,8 +38,10 @@ export default function App() {
         ...
         <br />
         <br />
-        "They know they can lose all their money when they go into it," but
-        extend the terms?&nbsp;<b>trade is settled</b>
+        "They know they can lose all their money when they go into it,"
+        but&nbsp;
+        <b style={{ color: "blue" }}>extend the terms</b>?&nbsp;
+        <b>trade is settled</b>
         <br />
         <br />
         It is also bail-out for usurped debt when credit wasn’t yet counterfeit
