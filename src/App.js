@@ -104,6 +104,11 @@ export default function App() {
         beyond free-rider-immutables.&nbsp;
         <a href="https://foiegras.life">Bloated demand</a>&nbsp;for
         free-rider-mutables<b>&nbsp;does not create jobs</b>
+        <iframe
+          style={{ width: "100%", height: "700px" }}
+          title="2% of the population owns 4400% of the assets"
+          src="https://froth.app"
+        />
       </div>
     </div>
   );
