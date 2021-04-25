@@ -9,6 +9,10 @@ export default function App() {
           width: "100%"
         }}
       >
+        "M2-Money supply is enlargening, and that is very, very good" - Former
+        US Economic Advisor. "If it ain't broke don't fix it!" more jobs doesn't
+        lead to less poverty unless there is depreciating technology Gov
+        Patterson...
         <h1>residualsplit.us</h1>
         <h1>residual-split</h1>
         Stimulus doesn’t work for people it is http://residualsplit.us
@@ -36,6 +40,23 @@ export default function App() {
         Not only is it annoying but it shows intent and is not productive in the
         measure of ease-of-life or
         accumulative-hours-worked/median-home-sale-price
+        <div style={{ width: "100%", maxWidth: "600px" }}>
+          <a href="https://www.investopedia.com/articles/investing/110513/utilizing-prisoners-dilemma-business-and-economy.asp">
+            <img
+              style={{ width: "100%", height: "auto" }}
+              alt="https://www.investopedia.com/articles/investing/110513/utilizing-prisoners-dilemma-business-and-economy.asp"
+              src="https://www.dl.dropboxusercontent.com/s/txga730d36r52tg/Screen%20Shot%202021-04-25%20at%209.16.44%20AM.png?dl=0"
+            />
+          </a>
+        </div>
+        <div style={{ width: "100%", maxWidth: "600px" }}>
+          <img
+            style={{ width: "100%", height: "auto" }}
+            alt="https://www.investopedia.com/articles/investing/110513/utilizing-prisoners-dilemma-business-and-economy.asp"
+            src="https://www.dl.dropboxusercontent.com/s/r500t29a6058oll/Screen%20Shot%202021-04-11%20at%206.53.30%20AM.png?dl=0"
+          />
+        </div>
+        This is M2
       </div>
     </div>
   );
