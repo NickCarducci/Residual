@@ -66,6 +66,14 @@ export default function App() {
         without guilt assumed and with outmost investigations of intent
         <br />
         <br />
+        People do drugs because finance is depressing and school doesn’t pay
+        <br />
+        <br />
+        Discrimination based on not politics (campaign for office,
+        poll-extrapolation, party-analysis) or even ideas, but skill or bid
+        sofarasto call a deposit not an option-to-buy
+        <br />
+        <br />
         Dick Morris: “As we allow Intuit to dissolve, we need&nbsp;
         <a href="https://2052.live">UBI</a>”
         <br />
