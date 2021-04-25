@@ -34,7 +34,8 @@ export default function App() {
         without guilt assumed and with outmost investigations of intent
         <br />
         <br />
-        Dick Morris: “As we allow Intuit to dissolve, we need UBI”
+        Dick Morris: “As we allow Intuit to dissolve, we need&nbsp;
+        <a href="https://2052.live">UBI</a>”
         <br />
         <br />
         Not only is it annoying but it shows intent and is not productive in the
