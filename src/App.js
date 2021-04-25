@@ -14,8 +14,11 @@ export default function App() {
         doubly)
         <br />
         <br />
-        GDP= C + P is laughable in this regard. As well as significance not
-        being elastic or exponentially-correlated (positively or negatively) to
+        <a href="https://vianickcarducci.medium.com/gdp-the-big-lie-b1a0868785f4">
+          GDP= C + P
+        </a>
+        &nbsp;is laughable in this regard. As well as significance not being
+        elastic or exponentially-correlated (positively or negatively) to
         shuffling or non-derivative sample-population. Or pooling/
         free-rider-mutable-tax/<b style={{ color: "blue" }}>usury</b>&nbsp;saves
         money from price-elasticity not being a fact. Or condensation not being
