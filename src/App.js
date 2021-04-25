@@ -18,10 +18,11 @@ export default function App() {
         It is also bail-out for usurped debt when credit wasn’t yet counterfeit
         <br />
         <br />
-        Taxes-over-$400k for free-rider-mutable labor*assets*resources is
-        monopsony. I’m not jealous of the government, I am concerned for
-        public-health #MinnesotaIsGuilty #ChauvinTrial @chase @MoodysInvSvc
-        #CarFace
+        Taxes-over-$400k for&nbsp;
+        <a href="https://lightte.ch">free-rider-mutable</a>
+        &nbsp;labor*assets*resources is monopsony. I’m not jealous of the
+        government, I am concerned for public-health #MinnesotaIsGuilty
+        #ChauvinTrial @chase @MoodysInvSvc #CarFace
         <br />
         <br />
         It is not in spite, salvation is irrelevant of population and the past
@@ -30,6 +31,11 @@ export default function App() {
         <br />
         <br />
         Dick Morris: “As we allow Intuit to dissolve, we need UBI”
+        <br />
+        <br />
+        Not only is it annoying but it shows intent and is not productive in the
+        measure of ease-of-life or
+        accumulative-hours-worked/median-home-sale-price
       </div>
     </div>
   );
