@@ -9,6 +9,9 @@ export default function App() {
           width: "100%"
         }}
       >
+        Mind your business, Joe Manchin
+        <br />
+        <br />
         "M2-Money supply is enlargening, and that is very, very good" - Former
         US Economic Advisor. "If it ain't broke don't fix it!" more jobs doesn't
         lead to less poverty unless there is depreciating technology Gov
@@ -59,7 +62,7 @@ export default function App() {
         <div style={{ width: "100%", maxWidth: "600px" }}>
           <img
             style={{ width: "100%", height: "auto" }}
-            alt="https://www.investopedia.com/articles/investing/110513/utilizing-prisoners-dilemma-business-and-economy.asp"
+            alt="https://fred.stlouisfed.org/graph/?g=D2jW"
             src="https://www.dl.dropboxusercontent.com/s/r500t29a6058oll/Screen%20Shot%202021-04-11%20at%206.53.30%20AM.png?dl=0"
           />
         </div>
