@@ -9,6 +9,10 @@ export default function App() {
           width: "100%"
         }}
       >
+        Marxism is the same as Mises about credit is counterfeit and duress is
+        voidable. court-of-law doesn't exist if justice would lessen their pay
+        <br />
+        <br />
         Deterministic-calculus = notation of units by causal effect & if partial
         derivatives are greater than one it is two-full-derivatives (or to boot,
         doubly)
