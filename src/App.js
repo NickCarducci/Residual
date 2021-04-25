@@ -5,6 +5,7 @@ export default function App() {
     <div className="App">
       <div
         style={{
+          maxWidth: "100%",
           width: "100%"
         }}
       >
@@ -21,6 +22,14 @@ export default function App() {
         monopsony. I’m not jealous of the government, I am concerned for
         public-health #MinnesotaIsGuilty #ChauvinTrial @chase @MoodysInvSvc
         #CarFace
+        <br />
+        <br />
+        It is not in spite, salvation is irrelevant of population and the past
+        is past the only action of children of G—d is to prohibit future actions
+        without guilt assumed and with outmost investigations of intent
+        <br />
+        <br />
+        Dick Morris: “As we allow Intuit to dissolve, we need UBI”
       </div>
     </div>
   );
