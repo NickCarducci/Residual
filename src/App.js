@@ -18,8 +18,13 @@ export default function App() {
         Patterson...
         <h1>residualsplit.us</h1>
         <h1>residual-split</h1>
-        Stimulus doesn’t work for people it is http://residualsplit.us
-        @abbydphillip ...
+        @abbydphillip, "Stimulus" doesn’t work for people it is&nbsp;
+        <b>residual-split</b>
+        ...
+        <br />
+        <br />
+        "They know they can lose all their money when they go into it," but
+        extend the terms?&nbsp;<b>trade is settled</b>
         <br />
         <br />
         It is also bail-out for usurped debt when credit wasn’t yet counterfeit
@@ -30,8 +35,9 @@ export default function App() {
           <a href="https://lightte.ch">free-rider-mutable</a>
           &nbsp;labor*assets*resources is monopsony
         </b>{" "}
-        for only higher-price than allowing to negotiate without invoices you
-        can turn off&nbsp;<a href="https://vaults.biz">water&electricity</a>
+        for merely a higher-price (damage) than allowing to negotiate without
+        invoices or prisoners' dilemma duress. You can turn off&nbsp;
+        <a href="https://vaults.biz">water&electricity</a>
         &nbsp;&&nbsp;<a href="https://3under2.us">have tolls...</a>
         &nbsp;individually. I’m not jealous of the government, I am concerned
         for public-health #MinnesotaIsGuilty #ChauvinTrial @chase @MoodysInvSvc
@@ -70,7 +76,9 @@ export default function App() {
         </div>
         This is M2; $300k per person a year promised out of no-where, $70k per
         person a year given to gov monopsony contractors for free-rider-mutables
-        beyond free-rider-immutables
+        beyond free-rider-immutables.&nbsp;
+        <a href="https://foiegras.life">Bloated demand</a>&nbsp;for
+        free-rider-mutables<b>&nbsp;does not create jobs</b>
       </div>
     </div>
   );
