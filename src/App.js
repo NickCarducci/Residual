@@ -26,9 +26,13 @@ export default function App() {
         <b>
           <a href="https://lightte.ch">free-rider-mutable</a>
           &nbsp;labor*assets*resources is monopsony
-        </b>
-        . I’m not jealous of the government, I am concerned for public-health
-        #MinnesotaIsGuilty #ChauvinTrial @chase @MoodysInvSvc #CarFace
+        </b>{" "}
+        for only higher-price than allowing to negotiate without invoices you
+        can turn off&nbsp;<a href="https://vaults.biz">water&electricity</a>
+        &nbsp;&&nbsp;<a href="https://3under2.us">have tolls...</a>
+        &nbsp;individually. I’m not jealous of the government, I am concerned
+        for public-health #MinnesotaIsGuilty #ChauvinTrial @chase @MoodysInvSvc
+        #CarFace
         <br />
         <br />
         It is not in spite, salvation is irrelevant of population and the past
