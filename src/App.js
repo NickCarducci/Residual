@@ -71,7 +71,7 @@ export default function App() {
         <br />
         Discrimination based on not politics (campaign for office,
         poll-extrapolation, party-analysis) or even ideas, but skill or bid
-        sofarasto call a deposit not an option-to-buy
+        sofarastowards call a deposit not an option-to-buy
         <br />
         <br />
         Dick Morris: “As we allow Intuit to dissolve, we need&nbsp;
