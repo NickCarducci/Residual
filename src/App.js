@@ -65,7 +65,7 @@ export default class App extends React.Component {
             tweetId={"1386654198868099073"}
           />
           A complete-safeguard is a convict-intranet and on-device keybox.
-          Police/kidAdoptParent dash
+          Police/kidAdoptParent dash (with allowance to bluff)
           <br />
           <br />
           froth.app @frothanalysis · 14m
@@ -98,8 +98,10 @@ export default class App extends React.Component {
             moldmask.co, cocaine is money, purity health dpt @SaverParty · 21m
             <br />
             <br />
-            And a purchase is not always either a wage or aftermarket, but it is
-            certainly not a )))promise(((
+            And a purchase is not&nbsp;
+            <a href="https://micro-theory.com">always</a>&nbsp;either a wage or
+            aftermarket, but it is certainly not a )))
+            <a href="https://froth.app/debt">promise</a>(((
           </div>
           <br />
           First they increase my parent’s banksquat home value $600k since 2008
