@@ -18,6 +18,9 @@ export default function App() {
         doubly)
         <br />
         <br />
+        Red-herring is of the unobserved but is 0
+        <br />
+        <br />
         <a href="https://vianickcarducci.medium.com/gdp-the-big-lie-b1a0868785f4">
           GDP= C + P
         </a>
@@ -88,6 +91,10 @@ export default function App() {
         Not only is it annoying but it shows intent and is not productive in the
         measure of ease-of-life or
         accumulative-hours-worked/median-home-sale-price
+        <br />
+        <br />
+        Are you happier with Government and Finance that you would turn down
+        $300k in bonds and $70k in cash, every year?
         <div style={{ width: "100%", maxWidth: "600px" }}>
           <a href="https://www.investopedia.com/articles/investing/110513/utilizing-prisoners-dilemma-business-and-economy.asp">
             <img
