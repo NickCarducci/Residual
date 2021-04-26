@@ -1,4 +1,5 @@
 import React from "react";
+import { TwitterTweetEmbed } from "react-twitter-embed";
 import "./styles.css";
 
 export default class App extends React.Component {
@@ -59,6 +60,10 @@ export default class App extends React.Component {
             maxWidth: "600px"
           }}
         >
+          <TwitterTweetEmbed
+            key={"1386654198868099073"}
+            tweetId={"1386654198868099073"}
+          />
           A complete-safeguard is a convict-intranet and on-device keybox.
           Police/kidAdoptParent dash
           <br />
