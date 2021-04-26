@@ -59,28 +59,60 @@ export default class App extends React.Component {
             maxWidth: "600px"
           }}
         >
-          FDA determined the lymphoma during Moderna test was not caused by
-          Moderna from their report
+          <div style={{ backgroundColor: "rgb(220,180,250)" }}>
+            moldmask.co, cocaine is money, purity health dpt @SaverParty · 49m
+            <br />
+            First they increase my parent’s banksquat home&nbsp;
+            <a href="https://30under5.us">value</a>&nbsp;$600k since 2008 then
+            tax the property-improvement @uscourts @bernieandsid
+            #CapitalGainsTax https://debtistheft.com
+            <br />
+            <br />
+            nick@Thumbprint.us - Social Calendar & more! @viathumbprint · 13m
+            <br />
+            If there is any deal, without a court-verifiable logistical-proof of
+            free-rider-immutability (Apple NC, Amazon NYC) nor debtlessness, it
+            is not a “competitive-bidding-process” #DebtIsHaram @FTC @USEEOC
+            @FCC @PressSec
+            <br />
+            <br />
+            heat rises - Vaults - 30under5.us magnate.company @vaultbiz · 9m
+            <br />A job before customers is not a job per labor-equity;
+            free-rider-mutable taxation by usury, counterfeit or cash-depositary
+            is still not a new job
+          </div>
           <br />
-          <br />
-          If most are fat, old, afro or Hispanic and 80% effectiveness to boot.
-          I can withhold people based on that correlation and not on subjective
-          minimal viable product
-          <br />
-          <br />
-          50% worsened lymphoma obviously. J&J not advertised as being cultured
-          with stem cells. Cells without an antigen is a tumor
-          <br />
-          <br />
-          B-cell creativity can grow dependent. Charles Darwin observed that
-          @CDCDirector
-          <br />
-          <br />
-          The right is not from Civil Rights it is free-rider-excluder enslaving
-          those denied not based on mvp, of as evidenced as a cease-and-desist
-          defamation order would require. Here, you must prove condensation does
-          not happen @uscourts @neiltyson
-          <br />
+          <div style={{ backgroundColor: "rgb(180,250,220)" }}>
+            FDA determined the lymphoma during Moderna test was not caused by
+            Moderna from their report
+            <br />
+            <br />
+            If most are fat, old, afro or Hispanic and 80% effectiveness to
+            boot. I can withhold people based on that correlation and not on
+            subjective minimal viable product
+            <br />
+            <br />
+            50% worsened lymphoma obviously. J&J not advertised as being
+            cultured with stem cells. Cells without an antigen is a tumor
+            <br />
+            <br />
+            B-cell creativity can grow dependent. Charles Darwin observed that
+            @CDCDirector
+            <br />
+            <br />
+            The right is not from Civil Rights it is free-rider-excluder
+            enslaving those denied not based on mvp, of as evidenced as a
+            cease-and-desist defamation order would require. Here, you must
+            prove condensation does not happen @uscourts @neiltyson
+            <br />
+            <br />
+            The virus comes from within
+            <br />
+            <br />
+            The pores @JohnsHopkinsSPH @StephenMoore : "They know they can lose
+            all their money when they go into it," but extend the terms? trade
+            is settled
+          </div>
           <br />
           @Partnership4NYC http://30under5.us I’ve been saying this for years...
           http://lightte.ch http://3under2.us
@@ -94,15 +126,7 @@ export default class App extends React.Component {
           <br />
           “It is difficult to turn on-and-off plants” Jim Hansel, Indian-Point
           Powerplant. Well http://magnate.company fixes that bastard
-          <br />
-          <br />
-          The virus comes from within
-          <br />
-          <br />
-          The pores @JohnsHopkinsSPH @StephenMoore : "They know they can lose
-          all their money when they go into it," but extend the terms? trade is
-          settled
-          <br />
+          <hr />
           <br />
           Poverty will never be removed until technology is full and there are
           no jobs
