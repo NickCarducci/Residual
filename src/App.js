@@ -59,6 +59,69 @@ export default class App extends React.Component {
             maxWidth: "600px"
           }}
         >
+          A complete-safeguard is a convict-intranet and on-device keybox.
+          Police/kidAdoptParent dash
+          <br />
+          <br />
+          froth.app @frothanalysis · 14m
+          <br />
+          Replying to @viathumbprint
+          <br />
+          @FEC and @uscourts Oh you can bet I’ll apprisal your ass
+          <br />
+          <br />
+          <div style={{ backgroundColor: "rgb(240,220,170)" }}>
+            Why are you conflating voluntary-charity and disbursements @fec
+            @uscourts #GuamVUS? There is no protection of laundering funds
+            nick@Thumbprint.us - Social Calendar & more! @viathumbprint · 59m
+            <br />
+            <br />
+            You want to take actions of presumptions? This is the Supreme Court?
+            heat rises - Vaults - 30under5.us magnate.company @vaultbiz Replying
+            to @viathumbprint Donations are not organizational rights 10:50 AM ·
+            Apr 26, 2021·Twitter for iPhone View Tweet activity community
+            explorer @thumbprintapp · 44m
+            <br />
+            <br />
+            Replying to @vaultbiz and @viathumbprint Donations are not purchases
+            froth.app @frothanalysis · 38m
+            <br />
+            <br />
+            Creating a barrier-to-entry to boot, of no-less with intent. Unions
+            can strike. Deposits aren’t options. Credit is not cash.
+            Free-rider-immutable-tax is not theft. Yadda yadda yadda
+            moldmask.co, cocaine is money, purity health dpt @SaverParty · 21m
+            <br />
+            <br />
+            And a purchase is not always either a wage or aftermarket, but it is
+            certainly not a )))promise(((
+          </div>
+          <br />
+          First they increase my parent’s banksquat home value $600k since 2008
+          then tax the property-improvement @uscourts @bernieandsid
+          #CapitalGainsTax https://30under5.us https://debtistheft.com
+          <br />
+          <br />
+          If there is any deal, without a court-verifiable logistical-proof of
+          free-rider-immutability (Apple NC, Amazon NYC) nor debtlessness, it is
+          not a “competitive-bidding-process” #DebtIsHaram @FTC @USEEOC @FCC
+          @PressSec heat rises - Vaults - 30under5.us magnate.company @vaultbiz
+          · 1h
+          <br />
+          A job before customers is not a job per labor-equity;
+          free-rider-mutable taxation by usury, counterfeit or cash-depositary
+          is still not a new job
+          <br />
+          <br />
+          "System of itself can not administer itself" - D&S @DiamondandSilk
+          wew!
+          <br />
+          <br />
+          Money donated on people’s names to fund riots, GOP says to run them
+          over
+          <br />
+          <br />
+          by definition an admin is merely a player. http://lightte.ch
           <div style={{ backgroundColor: "rgb(220,180,250)" }}>
             moldmask.co, cocaine is money, purity health dpt @SaverParty · 49m
             <br />
