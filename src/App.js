@@ -59,8 +59,77 @@ export default class App extends React.Component {
             maxWidth: "600px"
           }}
         >
+          FDA determined the lymphoma during Moderna test was not caused by
+          Moderna from their report
+          <br />
+          <br />
+          If most are fat, old, afro or Hispanic and 80% effectiveness to boot.
+          I can withhold people based on that correlation and not on subjective
+          minimal viable product
+          <br />
+          <br />
+          50% worsened lymphoma obviously. J&J not advertised as being cultured
+          with stem cells. Cells without an antigen is a tumor
+          <br />
+          <br />
+          B-cell creativity can grow dependent. Charles Darwin observed that
+          @CDCDirector
+          <br />
+          <br />
+          The right is not from Civil Rights it is free-rider-excluder enslaving
+          those denied not based on mvp, of as evidenced as a cease-and-desist
+          defamation order would require. Here, you must prove condensation does
+          not happen @uscourts @neiltyson
+          <br />
+          <br />
+          @Partnership4NYC http://30under5.us I’ve been saying this for years...
+          http://lightte.ch http://3under2.us
+          <br />
+          <br />
+          Less taxes (towards 3under2.us 3%under2k and not
+          property-improvement-tax or involuntary-servitude on usurped grounds
+          nationalsecuritycasino.com) is good because marginal propensity to
+          consume produces more comparatively-advantages trades found
+          <br />
+          <br />
+          “It is difficult to turn on-and-off plants” Jim Hansel, Indian-Point
+          Powerplant. Well http://magnate.company fixes that bastard
+          <br />
+          <br />
+          The virus comes from within
+          <br />
+          <br />
+          The pores @JohnsHopkinsSPH @StephenMoore : "They know they can lose
+          all their money when they go into it," but extend the terms? trade is
+          settled
+          <br />
+          <br />
+          Poverty will never be removed until technology is full and there are
+          no jobs
+          <br />
+          <br />
+          Monopsony is Suypply as intermediate-demand
+          <br />
+          <br />
           Marxism is the same as Mises about credit is counterfeit and duress is
           voidable. court-of-law doesn't exist if justice would lessen their pay
+          <br />
+          <br />
+          growth is communism, marx is individual without human assets
+          <br />
+          <br />
+          I&nbsp;
+          <a href="https://johnshopkins.academia.edu/NickCarducci">present</a>
+          &nbsp;Marx/Schumpeter/Piketty as the same as Mises, without the
+          rent-seeking/prisoner-dilemma-apathy. Marx wanted labor to have
+          profits, which is essentially non-profits (unlimited salaries
+          notwithstanding... lightte.ch). This is misnomer, like Jesus never
+          said he would die for Sin.
+          <br />
+          <br />
+          Maoism is quota-communism (basic) and I’m didn’t study how Lenin went
+          from serfdom to genocide but residualsplit.us is like castle doctrine
+          haram. The market cannot solve prisoners’ dilemma
           <br />
           <br />
           Deterministic-calculus = notation of units by causal effect & if
@@ -138,6 +207,16 @@ export default class App extends React.Component {
           <br />
           Dick Morris: “As we allow Intuit to dissolve, we need&nbsp;
           <a href="https://2052.live">UBI</a>”
+          <br />
+          <br />I was going to say, “you’re a breathe of fresh air, so I am
+          surprised to learn again you advice @BillClinton . UBI is not needed
+          since prices are elastic, moreover it is nationalistic bail-out. Did
+          you advise Bill Clinton on Glass Steagal repeal of dubbing
+          bond-valuation as ...
+          <br />
+          <br />
+          savings of real assets? Financial employment to population is 2% and
+          own 4400% of real-assets” @DickMorrisTweet
           <br />
           <br />
           Not only is it annoying but it shows intent and is not productive in
