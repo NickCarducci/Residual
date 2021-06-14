@@ -8,10 +8,12 @@
   ],
   "main": "src/index.js",
   "dependencies": {
+    "exenv": "1.2.2",
+    "prop-types": "15.7.2",
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "react-scripts": "4.0.0",
-    "react-twitter-embed": "3.0.3"
+    "scriptjs": "2.5.9"
   },
   "devDependencies": {
     "@babel/runtime": "7.13.8",
