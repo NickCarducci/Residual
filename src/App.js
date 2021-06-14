@@ -1,5 +1,6 @@
 import React from "react";
 import TwitterTweetEmbed from "./TwitterTweetEmbed";
+import Fraud from "./Fraud";
 import "./styles.css";
 
 export default class App extends React.Component {
@@ -343,6 +344,20 @@ export default class App extends React.Component {
           free-rider-mutables beyond free-rider-immutables.&nbsp;
           <a href="https://foiegras.life">Bloated demand</a>&nbsp;for
           free-rider-mutables<b>&nbsp;does not create jobs</b>
+          <br />
+          <br />
+          hopefully they did not fulfill the pro-rate, or more to be reversed
+          will be realized... bona fide book keepers assemble!
+          <div style={{ width: "100%", maxWidth: "600px" }}>
+            <a href="https://fred.stlouisfed.org/graph/?g=EJiM">
+              <img
+                style={{ width: "100%", height: "auto" }}
+                alt="m1 money matches currencyComponentM1 until 2020 then they discontinue the series"
+                src="https://www.dl.dropboxusercontent.com/s/cjnf0ofhzui11l0/Screen%20Shot%202021-06-14%20at%2011.21.41%20AM.png?dl=0"
+              />
+            </a>
+          </div>
+          <Fraud />
           <iframe
             style={{ width: "100%", height: "700px" }}
             title="2% of the population owns 4400% of the assets"
