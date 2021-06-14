@@ -1,5 +1,5 @@
 import React from "react";
-import { TwitterTweetEmbed } from "react-twitter-embed";
+import TwitterTweetEmbed from "./TwitterTweetEmbed";
 import "./styles.css";
 
 export default class App extends React.Component {
