@@ -36,7 +36,8 @@ export default class App extends React.Component {
         <div
           ref={this.header}
           style={{
-            textAlign: "right",
+            display: "flex",
+            justifyContent: "space-between",
             width: "100%",
             top: "0px",
             position: "fixed",
@@ -44,6 +45,12 @@ export default class App extends React.Component {
             backgroundColor: "rgb(180,200,255)"
           }}
         >
+          <a
+            href="https://vaults.biz"
+            style={{ color: "white", textDecoration: "none" }}
+          >
+            vaults.biz
+          </a>
           <a
             href="https://lightte.ch"
             style={{ color: "white", textDecoration: "none" }}
